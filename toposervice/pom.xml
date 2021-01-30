@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 
-	<groupId>es.codeurjc.mastercloudapps.reactive</groupId>
+	<groupId>jmguijarro2020-acolina2020</groupId>
 	<artifactId>toposervice</artifactId>
 	<version>0.1.0-SNAPSHOT</version>
 

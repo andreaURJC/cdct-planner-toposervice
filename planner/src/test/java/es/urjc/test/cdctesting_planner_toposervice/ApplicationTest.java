@@ -10,7 +10,7 @@ import org.springframework.web.client.RestTemplate;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 @SpringBootTest(classes = {es.codeurjc.mastercloudapps.planner.Application.class})
-@AutoConfigureStubRunner(ids = {"es.codeurjc.mastercloudapps.reactive:toposervice:+:stubs:8080"},
+@AutoConfigureStubRunner(ids = {"jmguijarro2020-acolina2020:toposervice:+:stubs:8080"},
         stubsMode = StubRunnerProperties.StubsMode.LOCAL)
 class ApplicationTest {
 
